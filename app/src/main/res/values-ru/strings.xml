@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 Jiaheng Ge
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Протеин</string>
+
+    <string name="label_auth">Вход</string>
+
+    <string name="dialog_ok">Ок</string>
+    <string name="dialog_cancel">Отмена</string>
+
+    <string name="login">Войти через Dribbble</string>
+    <string name="login_pre_title">Приятно познакомиться</string>
+    <string name="protein_desc">Protein - это нетипичное приложение для dribble, которое разработали с  чашкой простоты и двумя ложками удовольствия. Ваше вдохновение проголодалось? Наслаждайтесь.</string>
+    <string name="login_pre_button">Вход в Dribbble</string>
+    <string name="request_access_token_failed">Ошибка, повторите попытку.</string>
+    <string name="login_to_proceed">Пожалуйста, войдите, чтобы продолжить</string>
+
+    <string name="empty">Совсем ничего :(</string>
+    <string name="error">Ой! Что-то пошло не так.</string>
+    <string name="retry">Попробуй еще раз</string>
+
+    <string name="home_tab_popular">Популярный</string>
+    <string name="home_tab_following">Следующий</string>
+    <string name="home_tab_recent">Последний</string>
+    <string name="home_tab_debuts">Дебюты</string>
+
+    <string name="action_login">Вход</string>
+    <string name="action_logout">Выход</string>
+    <string name="action_about">О приложении</string>
+
+    <string name="shot_views">Просмотры</string>
+    <string name="shot_likes">Лайки</string>
+    <string name="shot_comments">Комментарии</string>
+    <string name="shot_share">Поделиться</string>
+    <string name="shot_comment_edit_hint">Добавить комментарий</string>
+    <string name="shot_comment_send_failed">Ошибка при отправке.</string>
+    <string name="shot_views_count">%1$d Просмотра</string>
+    <string name="shot_likes_count">%1$d Лайков</string>
+    <string name="shot_comments_count">%1$d Комментария</string>
+    <string name="shot_detail_more_title">Больше от %1$s</string>
+
+    <string name="user_follow">Следить</string>
+    <string name="user_following">Последователи</string>
+    <string name="user_tab_shots">Выстрелы</string>
+    <string name="user_tab_likes">Нравится</string>
+    <string name="user_tab_followers">Читают</string>
+    <string name="user_tab_following">Следующий</string>
+
+    <string name="user_info">%1$d Выстрел %2$d читающих</string>
+
+    <string name="logout_title">Выход</string>
+    <string name="logout_message">Добро пожаловать в любое время.</string>
+
+    <string name="request_error">Ошибка запроса</string>
+
+    <string name="shot_detail_comment_header">%1$d Комментария</string>
+    <string name="shot_detail_comment_empty">Еще нет комментариев</string>
+
+    <string name="transition_avatar" translatable="false">transition_avatar</string>
+    <string name="transition_shot_image" translatable="false">transition_shot_image</string>
+
+    <string name="about_title">Protein сделан</string>
+    <string name="about_name_ge">Jiaheng Ge</string>
+    <string name="about_name_melodie">Melodie Zhang</string>
+    <string name="about_other_contributors">Другие участники</string>
+    <string name="about_version">Вервсия %1$s</string>
+    <string name="about_licenses">Лицензия</string>
+    <string name="about_share">Распространять любовь</string>
+</resources>
